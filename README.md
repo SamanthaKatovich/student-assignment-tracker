@@ -265,5 +265,3 @@ This project is open source and available for educational purposes.
 - Portfolio: [samanthakatovich.github.io](https://samanthakatovich.github.io)
 
 ---
-
-*Built with ❤️ as part of my data science portfolio*
